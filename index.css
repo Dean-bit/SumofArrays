@@ -1,0 +1,32 @@
+.row{
+    display: flex;
+}
+.element{
+    margin: 10px;
+    background-color:#E7D2CC ;
+    padding: 15px;
+    border-radius: 4px;
+}
+input {
+    width: 20%;
+}
+span{
+    text-align: center;
+}
+.element:hover{
+    background-color:#686868 ;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.result{
+    background-color: #686868;
+    border-radius: 4px;
+    padding: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-left: 4px;
+    text-align: center;
+    font-size: 24px;
+    color: #E7D2CC;
+}
